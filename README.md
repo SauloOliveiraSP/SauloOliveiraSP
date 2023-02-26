@@ -1,4 +1,4 @@
-## Olá! Eu sou Saulo Oliveira, desenvolvedor e amante de tecnologia!
+## Olá! Eu sou Saulo Oliveira, desenvolvedor e futuro gestor de tecnologia da informação!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloOliveiraSP&hide=stars,issues&count_private=true&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloOliveiraSP&layout=compact&theme=merko)
