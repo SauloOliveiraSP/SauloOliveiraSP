@@ -5,12 +5,13 @@ Meu nome é Saulo de Oliveira e sou um grande fã de Desenvolvimento Web, Mobile
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloOliveiraSP&layout=compact&theme=merko)
 
 <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/java-original.svg">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
