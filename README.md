@@ -1,4 +1,5 @@
-## Olá! Bem vindo. Meu nome é Saulo de Oliveira! Sou um grande fã de Desenvolvimento Web, Mobile e Aplicações. Aqui tem alguns projetos que desenvolvi ou participei!
+## Olá! Bem vindo!
+Meu nome é Saulo de Oliveira e sou um grande fã de Desenvolvimento Web, Mobile e Aplicativos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloOliveiraSP&hide=stars,issues&count_private=true&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloOliveiraSP&layout=compact&theme=merko)
