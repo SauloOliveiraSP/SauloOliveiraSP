@@ -1,5 +1,5 @@
-## Seja bem vindo!
-Aqui mostro alguns projetos que desenvolvi ao longo dos anos. Poderá encontrar agora ou futuramente Desenvolvimento Web, Mobile e Apps.
+## 🚀 Bem-vindo ao meu repositório!
+Aqui você encontrará projetos que desenvolvi ao longo dos anos, abrangendo Desenvolvimento Web, Mobile e Aplicações. Estou sempre explorando novas tecnologias e aprimorando meus projetos, então fique à vontade para explorar e acompanhar as atualizações!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloOliveiraSP&hide=stars,issues&count_private=true&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloOliveiraSP&layout=compact&theme=merko)
